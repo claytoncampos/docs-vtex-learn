@@ -1,0 +1,21 @@
+1 instalar o corebiz cli
+2 corebiz vtex workflow
+
+branch name e teamwork task ID
+3 ex: feature/ExampleStyles-763820
+
+4 (desenvolve depois git commit -a -m "teste" -- depois git push)
+
+vai subir p git lab e sera realziado os testes.
+
+se estiver tudo ok
+finalziamos a terefa
+
+5 corebiz vtex workflow-finish
+nessa parte será feito um merge automatico e vc ira para master, tem que entrar
+no git lab e solicitar para alguem pleno verificar o merge request mencionar na mensagem
+com @nome
+
+depois é feito no merge no git lab e excluir a branch origin selecionar o checkbox
+
+depois é feito o release patch, minor ou major e posteriormente o deplay

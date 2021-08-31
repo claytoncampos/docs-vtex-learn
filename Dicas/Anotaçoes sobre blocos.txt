@@ -1,0 +1,26 @@
+------------------PAGINA HOME---------------------
+
+blocks(componentes já criados pela VTEX)
+
+blocks: Declarar os blocos que serao renderizados na pagina
+props: propriedades dos componenetes
+
+usar mais de um bloco igual (colocar # e nome pra diferenciar)
+
+"info-card#button-left"
+{
+    "store.home": {
+      "blocks": [
+        "rich-text",
+        "info-card#button-right"
+      ]
+    },
+    "info-card#button-right": {
+	"props": {
+        "isFullModeStyle": false
+	}
+  }
+}
+------------------PAGINA PRODUTOS---------------------
+
+https://learn.vtex.com/docs/course-basic-blocks-step04pdp-lang-pt

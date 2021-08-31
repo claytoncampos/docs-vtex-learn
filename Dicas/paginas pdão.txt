@@ -1,0 +1,6 @@
+store.home (Home page)
+store.product (Product page)
+store.search (Search Results page)
+store.account (Client Account page)
+store.login (Login page)
+store.orderplaced (Order Placed page)

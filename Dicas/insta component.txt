@@ -1,0 +1,6 @@
+https://ig.instant-tokens.com
+https://www.instant-tokens.com/home
+
+https://github.com/corebiz-global/selu/blob/master/src/components/Instagram.js
+
+JSON
